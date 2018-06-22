@@ -1,4 +1,4 @@
-**demo**: [https://PengMengShan.github.io/vue-element-admin/](https://PengMengShan.github.io/vue-element-admin/)
+**demo**: [https://PengMengShan.cn/vue-element-admin/](https://PengMengShan.github.io/vue-element-admin/)
 
 # To start
 
@@ -8,7 +8,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8081
+# serve with hot reload at localhost:8080
 npm run dev
 
 # build for production with minification
