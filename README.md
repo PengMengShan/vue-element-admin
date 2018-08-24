@@ -1,4 +1,4 @@
-**demo**: [https://PengMengShan.cn/vue-element-admin/](https://PengMengShan.github.io/vue-element-admin/)
+**demo**: [https://PengMengShan.cn/vue-element-admin/dist/index.html#/login](https://PengMengShan.github.io/vue-element-admin/dist/index.html#/login)
 
 # To start
 
